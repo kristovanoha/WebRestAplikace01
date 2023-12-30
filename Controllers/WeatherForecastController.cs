@@ -33,7 +33,7 @@ namespace WebRest01.Controllers
         [HttpGet("first", Name = "GetFirst")]
         public ActionResult<string> First()
         {
-            return "je to tady PRVNI";
+            return "je to tady PRVN sssI";
         }
 
 
