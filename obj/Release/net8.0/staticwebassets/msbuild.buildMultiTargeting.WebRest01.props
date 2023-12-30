@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebRest01.props" />
+</Project>

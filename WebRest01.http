@@ -1,0 +1,6 @@
+@WebRest01_HostAddress = http://localhost:5082
+
+GET {{WebRest01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
